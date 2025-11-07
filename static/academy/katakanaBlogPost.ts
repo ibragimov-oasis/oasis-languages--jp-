@@ -28,9 +28,9 @@ The katakana chart mirrors hiragana's structure exactly—46 basic characters in
 |    | a | i | u | e | o |
 |----|---|---|---|---|---|
 |    | ア | イ | ウ | エ | オ |
-| k  | カ | キ |ク | ケ | コ |
+| k  | カ | キ | ク | ケ | コ |
 | s  | サ | シ | ス | セ | ソ |
-| t  | タ | チ | ツ | テ |ト |
+| t  | タ | チ | ツ | テ | ト |
 | n  | ナ | ニ | ヌ | ネ | ノ |
 | h  | ハ | ヒ | フ | ヘ | ホ |
 | m  | マ | ミ | ム | メ | モ |

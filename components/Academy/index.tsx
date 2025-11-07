@@ -54,7 +54,6 @@ const Academy = () => {
   return (
     <div className="flex flex-col gap-8 min-h-[100dvh] max-w-[100dvw] px-4 sm:px-8 md:px-20 xl:px-66  pb-20">
       <Banner />
-      
       {/* Japanese Language Section */}
       <div className="w-full">
         <h2 className="text-3xl font-bold mb-4 text-[var(--main-color)]">Japanese Language</h2>
