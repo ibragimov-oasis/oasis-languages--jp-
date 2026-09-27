@@ -1,21 +1,21 @@
-# Security Policy
+# Security Policy & Responsible Disclosure Directive
 
-## Reporting a Vulnerability
-For vulnerabilities that impact the confidentiality, integrity, and availability of Monkeytype services, please send your disclosure via 
-email.
-Include as much detail as possible to ensure reproducibility. At a minimum, vulnerability disclosures should include:
-- Vulnerability Description
-- Proof of Concept
-- Impact
-- Screenshots or Proof
+**Project:** oasis-languages--jp-  
+**Maintained by:** silent0002 / Oasis  
+**Contact:** `ibragimov@akane.waseda.jp`
 
-If you discover a security vulnerability in this project, please report it responsibly:
-- **Report via:** [lingdojo.dev@gmail.com](mailto:lingdojo.dev@gmail.com), open a **issue** on this repository or contact the developer directly through our Discord server.
-- **Response time:** We aim to acknowledge all reports within **48 hours**.
-- **Next steps:** Once verified, we will provide a timeline for a fix. If the report is declined, we will provide an explanation.
-- **Confidentiality:** Please do **not publicly disclose** the actual vulnerability itself until a fix has been released.
+---
 
-We take security seriously and will work to ensure all users remain protected.
+## 1. Strict Security Directives
+This repository and its production deployments are proprietary systems. We maintain a zero-tolerance policy toward unauthorized access, malicious probing, and automated exploitation:
+- **No Unauthorized Penetration Testing:** Automated fuzzing, denial-of-service (DoS) attempts, SQL injection probing, and credential stuffing are considered malicious attacks.
+- **No Scraping Under The Pretext of Research:** Disguising data extraction, reverse engineering, or architecture harvesting as "security research" is strictly prohibited and subject to legal action.
 
-## Notes
-Please do not engage in activities that might cause a denial of service condition, create significant strains on critical resources, or negatively impact users of our website. 
+## 2. Responsible Disclosure Process
+If you identify a genuine security vulnerability within this project, we appreciate your responsible, private disclosure:
+1. **Report Privately:** Email details immediately to `ibragimov@akane.waseda.jp` with the subject `[SECURITY VULNERABILITY] oasis-languages--jp-`.
+2. **Include Technical Details:** Provide a clear description, reproduction steps, proof of concept (if applicable), and potential impact.
+3. **Confidentiality:** Do not disclose, publish, or share details of the vulnerability publicly until a patch has been verified and deployed.
+
+## 3. Response Commitment
+We take all legitimate reports seriously and will acknowledge receipt within 48 business hours to coordinate remediation.
